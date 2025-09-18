@@ -1,5 +1,3 @@
-<h1>Hi, my name is Jimmy Ardiansyah! 👋</h1>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=198A1B&width=435&lines=Technology+Educator+and+Practitionerr;Trusted+Advisor+Consultant;Public+Speaker;Technologist+and+Facilitator;Mentorship+and+Community+Service;" alt="Some words describing Jimmy" />
 </a>
